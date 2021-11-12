@@ -1,0 +1,11 @@
+The python terminal POS system
+
+Freatures : 
+	    1. Add User
+	    2. View user
+	    3. Add,update product
+	    4. View a product and View all products
+            5. Place order by current logged in user
+            6. User login
+
+User save all the data in local database followed by sql with python.
